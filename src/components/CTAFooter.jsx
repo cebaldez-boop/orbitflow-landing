@@ -97,7 +97,7 @@ export default function CTAFooter() {
           </div>
 
           <p className="text-gray-700 text-xs mt-4 md:mt-0">
-            © 2026 Orbitflow AI. All rights reserved.
+            © 2025 Orbitflow AI. All rights reserved.
           </p>
         </div>
 
