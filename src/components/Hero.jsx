@@ -137,7 +137,7 @@ export default function Hero() {
               >
                 <Suspense fallback={<SplineLoader />}>
                   <Spline
-                    scene="https://prod.spline.design/t8yjDNYpFn6I1pg7/scene.splinecode"
+                    scene="https://prod.spline.design/wk9qhsnmtOlK0Yig/scene.splinecode"
                     onLoad={() => setSplineLoaded(true)}
                     style={{
                       width: '220%',
